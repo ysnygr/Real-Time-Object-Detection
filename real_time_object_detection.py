@@ -1,11 +1,3 @@
-#!/usr/bin/env python3
-# -*- coding: utf-8 -*-
-"""
-Created on Wed Sep  7 10:43:00 2022
-
-@author: yasin
-"""
-
 import numpy as np
 import os
 import tensorflow.compat.v1 as tf
